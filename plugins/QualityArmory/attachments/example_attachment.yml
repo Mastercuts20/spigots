@@ -1,0 +1,5 @@
+HOW_TO_USE: Below is just the required values to create a new attachment for the 'basegun'.
+  If you want to modify more parts of the gun, copy the value you want to change from
+  the 'base' gun and paste it here with the value you want.
+AllowUserModifications: false
+invalid: true

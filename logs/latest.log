@@ -1,0 +1,481 @@
+[16:10:14] [main/INFO]: Loaded 0 recipes
+[16:10:15] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[16:10:15] [Server thread/INFO]: Loading properties
+[16:10:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:10:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a1f2566-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[16:10:16] [Server thread/INFO]: Debug logging is disabled
+[16:10:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:10:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:10:16] [Server thread/INFO]: Generating keypair
+[16:10:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:10:16] [Server thread/INFO]: Using default channel type
+[16:10:17] [Server thread/ERROR]: Could not load 'plugins\plugin.jar' in folder 'plugins': uses the space-character (0x20) in its name
+[16:10:22] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:10:22] [Server thread/INFO]: [QualityArmory] Loading QualityArmory v1.1.129
+[16:10:22] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.49
+[16:10:22] [Server thread/INFO]: [Skript] Loading Skript v2.3-beta4
+[16:10:22] [Server thread/INFO]: [SkQuery] Loading SkQuery v3.6.2-Lime
+[16:10:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:10:22] [Server thread/INFO]: Preparing level "world"
+[16:10:22] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:10:23] [Server thread/INFO]: Loaded 524 recipes
+[16:10:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:10:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:10:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:10:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:10:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:10:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:10:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[16:10:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mob Spawn Range: 6
+[16:10:25] [Server thread/INFO]: Random Lighting Updates: false
+[16:10:25] [Server thread/INFO]: Max TNT Explosions: 100
+[16:10:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:10:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:10:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:10:25] [Server thread/INFO]: View Distance: 10
+[16:10:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:10:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:10:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:10:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:10:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:10:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:10:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:10:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:10:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:10:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[16:10:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mob Spawn Range: 6
+[16:10:25] [Server thread/INFO]: Random Lighting Updates: false
+[16:10:25] [Server thread/INFO]: Max TNT Explosions: 100
+[16:10:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:10:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:10:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:10:25] [Server thread/INFO]: View Distance: 10
+[16:10:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:10:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:10:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:10:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:10:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:10:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:10:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:10:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:10:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:10:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[16:10:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:10:25] [Server thread/INFO]: Mob Spawn Range: 6
+[16:10:25] [Server thread/INFO]: Random Lighting Updates: false
+[16:10:25] [Server thread/INFO]: Max TNT Explosions: 100
+[16:10:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:10:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:10:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:10:25] [Server thread/INFO]: View Distance: 10
+[16:10:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:10:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:10:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:10:25] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 954102605190234287)
+[16:10:25] [Server thread/INFO]: Preparing spawn area: 4%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 8%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 12%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 16%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 20%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 24%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 28%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 32%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 36%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 40%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 44%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 48%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 52%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 56%
+[16:10:26] [Server thread/INFO]: Preparing spawn area: 60%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 64%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 68%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 72%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 76%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 80%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 84%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 88%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 92%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 96%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 100%
+[16:10:27] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 954102605190234287)
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 4%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 8%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 12%
+[16:10:27] [Server thread/INFO]: Preparing spawn area: 16%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 20%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 24%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 28%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 32%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 36%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 40%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 44%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 48%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 52%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 56%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 60%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 64%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 68%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 72%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 76%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 80%
+[16:10:28] [Server thread/INFO]: Preparing spawn area: 84%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 88%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 92%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 96%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 100%
+[16:10:29] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 954102605190234287)
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 4%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 8%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 12%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 16%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 20%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 24%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 28%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 32%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 36%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 40%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 44%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 48%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 52%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 56%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 60%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 64%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 68%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 72%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 76%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 80%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 84%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 88%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 92%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 96%
+[16:10:29] [Server thread/INFO]: Preparing spawn area: 100%
+[16:10:29] [Server thread/INFO]: Time elapsed: 3761 ms
+[16:10:29] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v1.1.129
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: 40mm
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: 50bmg
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: 556
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: 762
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: 9mm
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: fuel
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: fusion_cell
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: mininuke
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: musketball
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: rocket
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading AmmoType: shell
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: flashbang
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: grenade
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: incendarygrenade
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: LightSaberBlue
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: LightSaberRed
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: medkitcamo
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Misc: smokegrenade
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: 10mm
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: aa12
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: ak47
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: ak47u
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: m41pulserifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: arcgun9
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: asval
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: auto9
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: awp
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: barrett
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: blaster
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: cz65
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: dp27
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: dragunov
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: enfield
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: famas
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: fatman
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: flamer
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: flintlockpistol
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: fnfal
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: fnfiveseven
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: fnp90
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: glock
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: alienneedler
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: unscassaultrifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: henryrifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: pulserifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: homingrpg
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: instituterifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: kar98k
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: lazerrifle
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: m16
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: m40
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: m4a1s
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: m79
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: mac10
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: magnum
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: makarov
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: mauser
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: minigun
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: mk19
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: mp40
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: mp5k
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: musket
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: p30
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: pkp
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: ppsh41
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: remington
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: rpg
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: rpk
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: sawedoffshotgun
+[16:10:30] [Server thread/INFO]: [QualityArmory] -Loading Gun: sg553
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: skorpion
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: sks
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: spas12
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: sten
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: sturmgewehr44
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: sw1911
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: thatgun
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: ump
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: uzi
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: vera
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Gun: vz58
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Armor: assaulthelmet
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Armor: ncrhelmet
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Armor: skimask
+[16:10:31] [Server thread/INFO]: [QualityArmory] -Loading Armor: ushanka
+[16:10:31] [Server thread/ERROR]: [QualityArmory] Citizens 2.0 not found or not enabled
+[16:10:32] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.49
+[16:10:32] [Server thread/INFO]: [Skript] Enabling Skript v2.3-beta4
+[16:10:40] [Server thread/INFO]: [Skript] Loaded 71391 aliases in 7062ms
+[16:10:41] [Server thread/INFO]: [Skript] Starting updater thread
+[16:10:41] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[16:10:41] [Server thread/INFO]: [SkQuery] Enabling SkQuery v3.6.2-Lime
+[16:10:41] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[16:10:42] [Server thread/INFO]: [skQuery] Beginning to process a total of 138 from SkQuery
+[16:10:42] [Server thread/INFO]: [skQuery] Out of 138 classes, 136 classes were loaded from SkQuery
+[16:10:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:10:42] [Server thread/INFO]: Done (19.909s)! For help, type "help"
+[16:10:42] [Server thread/INFO]: [Skript] Loading variables...
+[16:10:42] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[16:10:43] [Server thread/WARN]: [Skript] line 3 of event-block is already a text, so you should not put it in one (e.g. line 3 of event-block instead of "%line 3 of event-block%") (Essentials.sk, line 894: set line 3 of block to "%line 3%"')
+[16:10:43] [Server thread/WARN]: [Skript] line 3 of event-block is already a text, so you should not put it in one (e.g. line 3 of event-block instead of "%line 3 of event-block%") (Essentials.sk, line 903: if line 3 of block is "%line 3%":')
+[16:10:43] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 925: loop 1 times:')
+[16:10:43] [Server thread/WARN]: [Skript] line 3 of event-block is already a text, so you should not put it in one (e.g. line 3 of event-block instead of "%line 3 of event-block%") (Essentials.sk, line 1337: set line 3 of block to "%line 3%"')
+[16:10:43] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 1373: loop 1 times:')
+[16:10:43] [Craft Scheduler Thread - 0/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[16:10:43] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 1428: loop 1 times:')
+[16:10:43] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 1442: loop 1 times:')
+[16:10:43] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 1460: loop 1 times:')
+[16:10:44] [Server thread/WARN]: [Skript] Since you're looping exactly one time, you could simply remove the loop instead (Essentials.sk, line 1475: loop 1 times:')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 1717: execute arg 1 command "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] line 3 of event-block is already a text, so you should not put it in one (e.g. line 3 of event-block instead of "%line 3 of event-block%") (Essentials.sk, line 2030: set line 3 of block to "%line 3%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2346: ip-ban arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2348: kick arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2352: ip-ban arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2354: kick arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2362: ip-ban arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2364: kick arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2368: ip-ban arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2370: kick arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2405: ban arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2407: kick arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2411: ban arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the 2nd argument is already a text, so you should not put it in one (e.g. the 2nd argument instead of "%the 2nd argument%") (Essentials.sk, line 2413: kick arg 1 because "%arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2420: ban arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2422: kick arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2426: ban arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] coloured the 2nd argument is already a text, so you should not put it in one (e.g. coloured the 2nd argument instead of "%coloured the 2nd argument%") (Essentials.sk, line 2428: kick arg 1 because "%colored arg 2%"')
+[16:10:44] [Server thread/WARN]: [Skript] the IP address is already a text, so you should not put it in one (e.g. the IP address instead of "%the IP address%") (Essentials.sk, line 2468: if arg 2 is "%ip of arg 1%":')
+[16:10:44] [Server thread/WARN]: [Skript] the IP address is already a text, so you should not put it in one (e.g. the IP address instead of "%the IP address%") (Essentials.sk, line 2658: set {ip.%player%} to "%ip of player%"')
+[16:10:45] [Server thread/INFO]: [0;37;22m[Essentials] | [0;30;1mloading...[m
+[16:10:45] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[16:10:45] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 107 triggers and 92 commands in 3.6 seconds
+[16:10:45] [Server thread/INFO]: [Skript] Finished loading.
+[16:12:41] [User Authenticator #1/INFO]: UUID of player Mastercuts20 is 5a063c65-0f5c-4841-b6f3-1eee5f43822b
+[16:12:42] [Server thread/INFO]: Gamerule sendCommandFeedback is now set to: false
+[16:12:42] [Server thread/INFO]: Incorrect argument for command
+[16:12:42] [Server thread/INFO]: /effect Mastercuts20 clear<--[HERE]
+[16:12:42] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /motd
+[16:12:42] [Server thread/INFO]: Mastercuts20[/127.0.0.1:53968] logged in with entity id 300 at ([world]-97.55308698059937, 66.0, 292.6048669080538)
+[16:14:17] [Server thread/INFO]: Mastercuts20 issued server command: /help
+[16:14:34] [Server thread/INFO]: Mastercuts20 issued server command: /skript
+[16:14:49] [Server thread/INFO]: Mastercuts20 issued server command: /help n
+[16:14:56] [Server thread/INFO]: Mastercuts20 issued server command: /help [n]
+[16:14:59] [Server thread/INFO]: Mastercuts20 issued server command: /help
+[16:15:03] [Server thread/INFO]: Mastercuts20 issued server command: /help
+[16:15:09] [Server thread/INFO]: Mastercuts20 issued server command: /help n
+[16:15:27] [Server thread/INFO]: Mastercuts20 issued server command: /help
+[16:15:34] [Server thread/INFO]: Mastercuts20 issued server command: /help plugins
+[16:15:39] [Server thread/INFO]: Mastercuts20 issued server command: /pl
+[16:16:39] [Server thread/INFO]: Mastercuts20 issued server command: /qualityarmory give p30 Mastercuts20
+[16:17:06] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[16:17:06] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[16:17:13] [Server thread/INFO]: Mastercuts20 issued server command: /gamemode survival
+[16:17:13] [Server thread/INFO]: [Mastercuts20: Set own game mode to Survival Mode]
+[16:17:16] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[16:17:16] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[16:17:23] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[16:17:23] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[16:17:40] [Server thread/INFO]: Mastercuts20 has made the advancement [Monster Hunter]
+[16:18:24] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:bread
+[16:18:24] [Server thread/INFO]: [Mastercuts20: Gave 1 [Bread] to Mastercuts20]
+[16:18:31] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:bread 63
+[16:18:31] [Server thread/INFO]: [Mastercuts20: Gave 63 [Bread] to Mastercuts20]
+[16:18:38] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:bow
+[16:18:38] [Server thread/INFO]: [Mastercuts20: Gave 1 [Bow] to Mastercuts20]
+[16:18:44] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:arrow 20
+[16:18:44] [Server thread/INFO]: [Mastercuts20: Gave 20 [Arrow] to Mastercuts20]
+[16:18:48] [Server thread/INFO]: Mastercuts20 has made the advancement [Take Aim]
+[16:19:12] [Server thread/INFO]: Mastercuts20 issued server command: /enchant damage
+[16:19:12] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant damage
+[16:19:29] [Server thread/INFO]: Mastercuts20 issued server command: /enchantment
+[16:19:29] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchantment
+[16:19:33] [Server thread/INFO]: Mastercuts20 issued server command: /enchantment
+[16:19:33] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchantment
+[16:19:59] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:diamond_sword
+[16:19:59] [Server thread/INFO]: [Mastercuts20: Gave 1 [Diamond Sword] to Mastercuts20]
+[16:20:37] [Server thread/INFO]: Mastercuts20 issued server command: /heal
+[16:20:37] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /heal
+[16:21:51] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:diamond_pickaxe
+[16:21:51] [Server thread/INFO]: [Mastercuts20: Gave 1 [Diamond Pickaxe] to Mastercuts20]
+[16:23:08] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:diamond_axer
+[16:23:11] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:diamond_axe
+[16:23:11] [Server thread/INFO]: [Mastercuts20: Gave 1 [Diamond Axe] to Mastercuts20]
+[16:31:19] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis no longer AFK![m
+[16:31:19] [Server thread/INFO]: Mastercuts20 lost connection: §cYou've been kick for afk!
+[16:31:19] [Server thread/INFO]: The player Mastercuts20 disconnected from the server.
+[16:31:19] [Server thread/WARN]: handleDisconnection() called twice
+[16:35:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c745096[id=<null>,name=Mastercuts20,properties={},legacy=false] (/127.0.0.1:58801) lost connection: Disconnected
+[16:57:21] [User Authenticator #3/INFO]: UUID of player Mastercuts20 is 5a063c65-0f5c-4841-b6f3-1eee5f43822b
+[16:57:21] [Server thread/INFO]: Gamerule sendCommandFeedback is now set to: false
+[16:57:21] [Server thread/INFO]: Incorrect argument for command
+[16:57:21] [Server thread/INFO]: /effect Mastercuts20 clear<--[HERE]
+[16:57:21] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /motd
+[16:57:22] [Server thread/INFO]: Mastercuts20[/127.0.0.1:64800] logged in with entity id 2721 at ([world]-98.61865873874238, 68.0, 290.65177386107)
+[16:59:31] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[16:59:31] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[16:59:34] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[16:59:34] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[16:59:43] [Server thread/INFO]: Mastercuts20 issued server command: /afk
+[16:59:43] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /afk
+[16:59:43] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis now AFK![m
+[16:59:45] [Server thread/INFO]: Mastercuts20 issued server command: /afk
+[16:59:45] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /afk
+[16:59:45] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis no longer AFK![m
+[17:00:49] [Server thread/INFO]: Mastercuts20 has made the advancement [Stone Age]
+[17:05:00] [Server thread/INFO]: Mastercuts20 issued server command: /afk
+[17:05:00] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /afk
+[17:05:00] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis now AFK![m
+[17:05:14] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis no longer AFK![m
+[17:07:38] [Server thread/INFO]: Mastercuts20 lost connection: Disconnected
+[17:07:38] [Server thread/INFO]: The player Mastercuts20 disconnected from the server.
+[17:16:51] [User Authenticator #4/INFO]: UUID of player Mastercuts20 is 5a063c65-0f5c-4841-b6f3-1eee5f43822b
+[17:16:52] [Server thread/INFO]: Gamerule sendCommandFeedback is now set to: false
+[17:16:52] [Server thread/INFO]: Incorrect argument for command
+[17:16:52] [Server thread/INFO]: /effect Mastercuts20 clear<--[HERE]
+[17:16:52] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /motd
+[17:16:52] [Server thread/INFO]: Mastercuts20[/127.0.0.1:53369] logged in with entity id 3775 at ([world]-97.6510026383008, 75.0, 281.84778603951577)
+[17:17:08] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[17:17:08] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[17:17:09] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[17:17:09] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[17:21:31] [Server thread/INFO]: Mastercuts20 issued server command: /enchant 43
+[17:21:31] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant 43
+[17:21:38] [Server thread/INFO]: Mastercuts20 issued server command: /enchant luck
+[17:21:38] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant luck
+[17:21:49] [Server thread/INFO]: Mastercuts20 issued server command: /afk
+[17:21:49] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /afk
+[17:21:49] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis now AFK![m
+[17:22:37] [Server thread/INFO]: [0;31;1mMastercuts20 [0;33;22mis no longer AFK![m
+[17:22:43] [Server thread/INFO]: Mastercuts20 issued server command: /enchant sharpness
+[17:22:43] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant sharpness
+[17:22:47] [Server thread/INFO]: Mastercuts20 issued server command: /enchant sharpness
+[17:22:47] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant sharpness
+[17:22:48] [Server thread/INFO]: Mastercuts20 issued server command: /enchant sharpness
+[17:22:48] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant sharpness
+[17:22:50] [Server thread/INFO]: Mastercuts20 issued server command: /enchant sharpness
+[17:22:50] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant sharpness
+[17:22:55] [Server thread/INFO]: Mastercuts20 issued server command: /enchant sharpness 4
+[17:22:55] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant sharpness 4
+[17:26:03] [Server thread/INFO]: Mastercuts20 issued server command: /enchant power 5
+[17:26:03] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant power 5
+[17:26:10] [Server thread/INFO]: Mastercuts20 issued server command: /enchant infinity
+[17:26:10] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant infinity
+[17:26:27] [Server thread/INFO]: Mastercuts20 issued server command: /enchant efficiency 5
+[17:26:27] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant efficiency 5
+[17:26:30] [Server thread/INFO]: Mastercuts20 issued server command: /enchant efficiency 5
+[17:26:30] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant efficiency 5
+[17:26:39] [Server thread/INFO]: Mastercuts20 issued server command: /enchant unbreaking 3
+[17:26:39] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant unbreaking 3
+[17:26:42] [Server thread/INFO]: Mastercuts20 issued server command: /enchant unbreaking 3
+[17:26:42] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant unbreaking 3
+[17:26:48] [Server thread/INFO]: Mastercuts20 issued server command: /enchant fortune 3
+[17:26:48] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant fortune 3
+[17:27:15] [Server thread/INFO]: Mastercuts20 has made the advancement [Best Friends Forever]
+[17:27:28] [Server thread/INFO]: Mastercuts20 issued server command: /save-all
+[17:27:29] [Server thread/INFO]: [Mastercuts20: Saved the game]
+[17:27:42] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:saddle
+[17:27:42] [Server thread/INFO]: [Mastercuts20: Gave 1 [Saddle] to Mastercuts20]
+[17:27:53] [Server thread/INFO]: Mastercuts20 issued server command: /gamemode 1
+[17:27:58] [Server thread/INFO]: Mastercuts20 issued server command: /gamemode creative
+[17:27:58] [Server thread/INFO]: [Mastercuts20: Set own game mode to Creative Mode]
+[17:30:54] [Server thread/INFO]: Mastercuts20 issued server command: /enchant lama
+[17:30:54] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /enchant lama
+[17:31:27] [Server thread/INFO]: Mastercuts20 issued server command: /gamemode survival
+[17:31:27] [Server thread/INFO]: [Mastercuts20: Set own game mode to Survival Mode]
+[17:32:59] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[17:32:59] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[17:33:00] [Server thread/INFO]: Mastercuts20 issued server command: /fly
+[17:33:00] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /fly
+[17:33:26] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:oak_fence 63
+[17:33:26] [Server thread/INFO]: [Mastercuts20: Gave 63 [Oak Fence] to Mastercuts20]
+[17:34:56] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:wheat
+[17:34:56] [Server thread/INFO]: [Mastercuts20: Gave 1 [Wheat] to Mastercuts20]
+[17:35:03] [Server thread/INFO]: Mastercuts20 issued server command: /give Mastercuts20 minecraft:wheat 32
+[17:35:03] [Server thread/INFO]: [Mastercuts20: Gave 32 [Wheat] to Mastercuts20]
+[17:36:49] [Server thread/INFO]: Mastercuts20 issued server command: /heal
+[17:36:49] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /heal
+[17:44:40] [Server thread/INFO]: Mastercuts20 has made the advancement [Acquire Hardware]
+[17:45:12] [Server thread/INFO]: Mastercuts20 issued server command: /heak
+[17:45:14] [Server thread/INFO]: Mastercuts20 issued server command: /heal
+[17:45:14] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /heal
+[17:47:25] [Server thread/INFO]: Mastercuts20 issued server command: /heal
+[17:47:25] [Server thread/INFO]: Mastercuts20 [5a063c65-0f5c-4841-b6f3-1eee5f43822b]: /heal
+[18:04:40] [Server thread/INFO]: Mastercuts20 has made the advancement [Suit Up]
+[18:05:52] [Server thread/INFO]: Mastercuts20 lost connection: Disconnected
+[18:05:52] [Server thread/INFO]: The player Mastercuts20 disconnected from the server.
+[18:06:05] [Server thread/INFO]: Stopping the server
+[18:06:05] [Server thread/INFO]: Stopping server
+[18:06:05] [Server thread/INFO]: [SkQuery] Disabling SkQuery v3.6.2-Lime
+[18:06:05] [Server thread/INFO]: [Skript] Disabling Skript v2.3-beta4
+[18:06:05] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.49
+[18:06:05] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v1.1.129
+[18:06:05] [Server thread/INFO]: Saving players
+[18:06:05] [Server thread/INFO]: Saving worlds
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
